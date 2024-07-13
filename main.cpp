@@ -1,4 +1,4 @@
 // gabut code in c++
 // compile it in windows (do not use unix os)
 
-#include <windows.h>
+// btw you can go to "sigma" named branch for source code, slut
